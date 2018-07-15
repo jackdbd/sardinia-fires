@@ -32,7 +32,7 @@ Install all the dependencies (this might take a while):
 conda install -c conda-forge geopandas jupyter --yes
 ```
 
-*Note*: if you run into issues when importing `geopandas`, try downgrading `fiona` to `1.7.9`.
+*Note*: there seem to be some issues with fiona (one of geopandas's dependencies). I had to downgrade to `fiona 1.7.9`.
 
 ```shell
 conda install -c conda-forge fiona=1.7.9
