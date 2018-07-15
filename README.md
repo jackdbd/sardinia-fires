@@ -58,3 +58,8 @@ To remove this conda environment, run:
 ```shell
 conda env remove -n sardinia-fires
 ```
+
+
+## Previous Art
+
+Mauro Melis created a really cool "scrollytelling" data visualization using the same datasets: [Sardinia on Fire](https://mauromelis.gitlab.io/sardinia-on-fire/). His entry won the [Sardegna Open Data data visualization contest in 2018](http://contest.formez.it/tags/incendi).
